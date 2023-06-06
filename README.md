@@ -32,4 +32,4 @@ STEPS:
 ![Alt Text](images_model1/I1.png)
 ![Alt Text](images_model1/I2.png)
 ![Alt Text](images_model1/I3.png)
-![Alt Text](images_model1I4.png)
+![Alt Text](images_model1/I4.png)
