@@ -16,15 +16,6 @@ To identify the most informative features, various feature selection techniques 
 ## Model Selection and Evaluation
 Several machine learning models are trained and evaluated using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. The models considered may include logistic regression, support vector machines, decision trees, random forests, or gradient boosting algorithms.
 
-## Hyperparameter Tuning
-To optimize the model's performance, hyperparameter tuning is performed using techniques like grid search or randomized search. Cross-validation is employed to assess the generalization capability of the models and avoid overfitting.
-
-## Model Evaluation and Interpretation
-The best-performing model is evaluated using an independent test set. The evaluation metrics are calculated to assess the model's accuracy, sensitivity, and specificity. Additionally, model interpretability techniques such as feature importance analysis or partial dependence plots are employed to gain insights into the prediction process.
-
-## Conclusion
-The developed machine learning model demonstrates promising results in breast cancer prediction. The accurate identification of malignant masses can aid in early diagnosis and potentially improve patient outcomes. Further research and validation on larger datasets are recommended to ensure the model's robustness and generalizability.
-
 ## References
 [List your references here, including papers, books, or online resources that you consulted during the project.]
 
