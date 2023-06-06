@@ -29,7 +29,8 @@ The developed machine learning model demonstrates promising results in breast ca
 [List your references here, including papers, books, or online resources that you consulted during the project.]
 
 STEPS:
-![Alt Text](images_model1/I1.png)
-![Alt Text](images_model1/I2.png)
-![Alt Text](images_model1/I3.png)
-![Alt Text](images_model1/I4.png)
+![Alt Text](images_model2/21.png)
+![Alt Text](images_model2/22.png)
+![Alt Text](images_model2/23.png)
+
+
